@@ -1,7 +1,7 @@
 ### Olá, sou o Fred 👋
 
-- 🔭 Hoje trabalho com React-Native
-- 🌱 Estou estudando Typescript
+- 🔭 Hoje trabalho com React-Native usando Typescript
+- 🌱 Estou estudando React js.
 - ⚡ Curiosidades sobre mim: Sou mestre em engenharia de produção. Jogo RPG(D&D5e) e League of legends nas horas vagas.
 
 <div align="center">
