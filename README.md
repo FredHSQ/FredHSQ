@@ -4,6 +4,12 @@
 - 🌱 Estou estudando React-Native.
 - ⚡ Curiosidades sobre mim: Sou mestre em engenharia de produção. Jogo RPG(D&D5e) e League of legends nas horas vagas.
 
+### Hi, my name is Fred 👋
+
+- 🔭 Currently i work with React-Native and React.Js using Typescript
+- 🌱 I'm studyng React-Native.
+- ⚡ Fun facts about me: I have a masters degree in engineering. I play RPG(D&D5e) and League of legends in my spare time.
+
 <div align="center">
   <a href="https://github.com/FredHSQ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FredHSQ&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
